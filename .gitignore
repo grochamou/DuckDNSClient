@@ -1,1 +1,4 @@
 /.idea/
+/DuckDNSClient/src/META-INF/
+/target/
+/DuckDNSClient/bin/
